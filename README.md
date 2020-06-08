@@ -1,7 +1,7 @@
 gpu-edu-workshops
 =================
 
-Public repository for code that I use to teach hands-on NVIDIA GPU computing workshops.
+Public repository for code that was used during TAMU NVIDIA GPU computing workshops.
 
 
 License
